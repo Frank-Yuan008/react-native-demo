@@ -1,0 +1,117 @@
+[
+    {
+        "itemId": 1,
+        "type": 1,
+        "name": "宜山路三店",
+        "cost": "-13.50",
+        "typeName": "日用百货",
+        "payMethod": "花呗",
+        "comment": "上海全家购物",
+        "acqu": "支付宝（中国）网络技术有限公司",
+        "time": "2024-04-19 15:28"
+    },
+    {
+        "itemId": 2,
+        "type": 2,
+        "name": "早阳肉包",
+        "cost": "-3.83",
+        "payMethod": "花呗",
+        "typeName": "餐饮美食",
+        "comment": "早阳肉包上海宜山路店",
+        "acqu": "拉卡拉支付股份有限公司",
+        "time": "2024-04-19 09:10"
+    },
+    {
+        "itemId": 3,
+        "type": 3,
+        "name": "转账-Alex",
+        "cost": "-250.00",
+        "typeName": "转账红包",
+        "payMethod": "余额宝",
+        "comment": "转账",
+        "oppAccount": "Alex(张三) 138******45",
+        "time": "2024-04-18 20:00"
+    },
+    {
+        "itemId": 4,
+        "type": 2,
+        "name": "老乡鸡外卖订单",
+        "cost": "-20.90",
+        "typeName": "餐饮美食",
+        "payMethod": "花呗",
+        "comment": "老乡鸡（宜山路店）外卖订单",
+        "time": "2024-04-17 19:06"
+    },
+    {
+        "itemId": 5,
+        "type": 4,
+        "name": "蚂蚁财富-长城收益宝C",
+        "cost": "-3000.00",
+        "typeName": "投资理财",
+        "payMethod": "余额宝",
+        "time": "2024-04-16 10:05"
+    },
+    {
+        "itemId": 6,
+        "type": 3,
+        "name": "转账-John",
+        "cost": "+200.00",
+        "typeName": "转账红包",
+        "payMethod": "中国银行储蓄卡(5546)",
+        "comment": "转账",
+        "oppAccount": "John(王二) 130******69",
+        "time": "2024-04-16 09:00"
+    },
+    {
+        "itemId": 7,
+        "type": 2,
+        "name": "早阳肉包",
+        "cost": "-4.00",
+        "typeName": "餐饮美食",
+        "payMethod": "花呗",
+        "comment": "早阳肉包上海宜山路店",
+        "acqu": "拉卡拉支付股份有限公司",
+        "time": "2024-04-15 09:08"
+    },
+    {
+        "itemId": 8,
+        "type": 1,
+        "name": "宜山路三店",
+        "cost": "-22.00",
+        "typeName": "日用百货",
+        "payMethod": "花呗",
+        "comment": "上海全家购物",
+        "acqu": "支付宝（中国）网络技术有限公司",
+        "time": "2024-04-09 19:26"
+    },
+    {
+        "itemId": 9,
+        "type": 2,
+        "name": "早阳肉包",
+        "cost": "-5.00",
+        "typeName": "餐饮美食",
+        "payMethod": "花呗",
+        "comment": "早阳肉包上海宜山路店",
+        "acqu": "拉卡拉支付股份有限公司",
+        "time": "2024-04-09 09:12"
+    },
+    {
+        "itemId": 10,
+        "type": 5,
+        "name": "滴滴快车",
+        "cost": "-13.31",
+        "typeName": "交通出行",
+        "payMethod": "花呗",
+        "comment": "滴滴快车-李师傅-04月05日行程",
+        "time": "2024-04-05 18:00"
+    },
+    {
+        "itemId": 11,
+        "type": 4,
+        "name": "余额宝收益",
+        "cost": "+300.00",
+        "typeName": "投资理财",
+        "payMethod": "余额宝",
+        "time": "2024-04-01 00:00"
+    }
+]
